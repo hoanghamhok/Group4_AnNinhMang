@@ -1,0 +1,14 @@
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.AssemblyInfoInputs.cache
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.AssemblyInfo.cs
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.csproj.CoreCompileInputs.cache
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\bin\Debug\net8.0\ANM_tuan5.exe
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\bin\Debug\net8.0\ANM_tuan5.deps.json
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\bin\Debug\net8.0\ANM_tuan5.runtimeconfig.json
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\bin\Debug\net8.0\ANM_tuan5.dll
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\bin\Debug\net8.0\ANM_tuan5.pdb
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.dll
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\refint\ANM_tuan5.dll
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.pdb
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ANM_tuan5.genruntimeconfig.cache
+C:\Users\dkfbr\source\repos\ANM_tuan5\ANM_tuan5\obj\Debug\net8.0\ref\ANM_tuan5.dll

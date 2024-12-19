@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkfbr\\source\\repos\\ANM_tuan5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C95F12-F9AB-4F3D-B7F4-691C7EEA97AE}|ANM_tuan5\\ANM_tuan5.csproj|c:\\users\\dkfbr\\source\\repos\\anm_tuan5\\anm_tuan5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C95F12-F9AB-4F3D-B7F4-691C7EEA97AE}|ANM_tuan5\\ANM_tuan5.csproj|solutionrelative:anm_tuan5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C95F12-F9AB-4F3D-B7F4-691C7EEA97AE}|ANM_tuan5\\ANM_tuan5.csproj|c:\\users\\dkfbr\\source\\repos\\anm_tuan5\\anm_tuan5\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C95F12-F9AB-4F3D-B7F4-691C7EEA97AE}|ANM_tuan5\\ANM_tuan5.csproj|solutionrelative:anm_tuan5\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DES.cs",
+              "DocumentMoniker": "C:\\Users\\dkfbr\\source\\repos\\ANM_tuan5\\ANM_tuan5\\DES.cs",
+              "RelativeDocumentMoniker": "ANM_tuan5\\DES.cs",
+              "ToolTip": "C:\\Users\\dkfbr\\source\\repos\\ANM_tuan5\\ANM_tuan5\\DES.cs",
+              "RelativeToolTip": "ANM_tuan5\\DES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:49:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkfbr\\source\\repos\\ANM_tuan5\\ANM_tuan5\\Program.cs",
+              "RelativeDocumentMoniker": "ANM_tuan5\\Program.cs",
+              "ToolTip": "C:\\Users\\dkfbr\\source\\repos\\ANM_tuan5\\ANM_tuan5\\Program.cs",
+              "RelativeToolTip": "ANM_tuan5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:47:27.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
